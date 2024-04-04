@@ -6,7 +6,7 @@ using namespace std;
 using namespace std;
 const char encoder [5] [5] = 
 {{'A', 'B', 'C', 'D', 'E'},
- {'F', '6', 'H', 'I', 'K'},
+ {'F', 'G', 'H', 'I', 'K'},
  {'L', 'M','N', '0', 'P'},
  {'Q', 'R', 'S', 'T', 'U'},
  {'V', 'W', 'X','Y', 'Z'}};
